@@ -1,3 +1,5 @@
+Kevin Jhoan Carreño Patiño 20242020308
+Daniel Felipe Santamaria Durán 20242020023
 # Arbol que trabajamos
 
                 (*)
